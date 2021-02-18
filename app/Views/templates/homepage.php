@@ -28,7 +28,6 @@
                 <li>
                     <p>hi,<br><?= $customer->username_cust; ?></p>
                 </li>
-                <li class="btnNav"><a href="#about-us"><i class="fas fa-address-card"></i> Tentang Kami</a></li>
                 <li class="btnNav"><a href="#lapangan"><i class="fas fa-th-list"></i> Lapangan</a></li>
                 <li class="btnNav"><a href="#"><i class="fas fa-home"></i> Home</a></li>
             </ul>
