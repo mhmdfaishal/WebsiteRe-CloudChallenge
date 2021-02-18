@@ -65,31 +65,9 @@
         </div>
         <aside>
             <article>
-                <h1 id="about-us" class="align-text-center margin-top-0">Tentang Kami</h1>
                 <div class="d-flex flex-direction-row">
                     <div class="card flex-grow margin-left-right-25 margin-top-bottom-2">
-                        <h4 class="align-text-center"></h4>
-                        <div class="d-flex flex-direction-column object-position-center">
-                            <img src="assets/img_admin/16.jpg" alt="Faisal" class="featured-image-25 fle-grow">
-                            <h5 class="name-title flex-grow margin-top-bottom-2">Faishal</h5>
-                            <h6 class="name-job align-text-center margin-top-bottom-2">Backend Web Developer</h6>
-                        </div>
-                    </div>
-                    <div class="card flex-grow margin-left-right-25 margin-top-bottom-2">
-                        <h4 class="align-text-center"></h4>
-                        <div class="d-flex flex-direction-column object-position-center">
-                            <img src="assets/img_admin/20.jpg" alt="Joe" class="featured-image-25 fle-grow">
-                            <h5 class="name-title flex-grow margin-top-bottom-2">Valent Ino</h5>
-                            <h6 class="name-job align-text-center margin-top-bottom-2">Frontend Web Developer</h6>
-                        </div>
-                    </div>
-                    <div class="card flex-grow margin-left-right-25 margin-top-bottom-2">
-                        <h4 class="align-text-center"></h4>
-                        <div class="d-flex flex-direction-column object-position-center">
-                            <img src="assets/img_admin/44.jpg" alt="Alam" class="featured-image-25 fle-grow">
-                            <h5 class="name-title flex-grow margin-top-bottom-2">Alam</h5>
-                            <h6 class="name-job align-text-center margin-top-bottom-2">Fullstack Web Developer</h6>
-                        </div>
+                        <p style="text-align: center;">&copy 2021 Campou Website</p>
                     </div>
                 </div>
             </article>
